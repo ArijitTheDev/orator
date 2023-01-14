@@ -5,9 +5,10 @@ Orator is a Text to speech ( TTS ) bot which basically speak in vc whatever you 
 Important Links:
 
 ----------------
-Invite Orator: https://dsc.gg/oratorbot
-Support Server: https://discord.gg/TeS3haQ4tT
-Top.gg Page: https://top.gg/bot/948637316145102868
+
+- Invite Orator: [https://dsc.gg/oratorbot](https://dsc.gg/oratorbot)
+- Support Server: [https://discord.gg/TeS3haQ4tT](https://discord.gg/TeS3haQ4tT)
+- Top.gg Page: [https://top.gg/bot/948637316145102868](https://top.gg/bot/948637316145102868)
 
 Team Orator
 ----------
