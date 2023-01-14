@@ -1,4 +1,7 @@
 site_name: Orator Bot
+site_url: https://docs.oratorbot.xyz
+site_description: Orator is a Text to speech ( TTS ) bot which basically speak in vc whatever you type in chat through its command . It has many languages and can be used in voice channels.
+site_author: Arijit
 theme:
   name: readthedocs
   highlightjs: true
