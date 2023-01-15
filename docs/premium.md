@@ -1,4 +1,4 @@
-# Orator 2.0 Update
+# Orator 2.0 Update (Dev Notes)
 
 Team Orator is back with Orator Premium and many new updates in this 2.0 version. In this documentation I will discuss them to you.
 
@@ -19,7 +19,13 @@ Team Orator is back with Orator Premium and many new updates in this 2.0 version
 
 - Antiswearing! Use `.antiswear on` and you're done, users can't do swearing anymore, our advanced Antiswearing system will handle it.
 
-- And many more things to explore.
+- Maybe our Antiswear won't be able to filter every messages, so what? Use `.blacklist-word <word>.`
+
+- We also have a `.ttsrole` command to restrict the access of using the TTS only to some users having a role.
+
+- Change prefix using `.config-prefix`
+
+- And many more things to explore. We will discuss tomorrow.
 
 
 ## Only these came in Orator 2.0?

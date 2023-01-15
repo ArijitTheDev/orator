@@ -1,4 +1,4 @@
-# Orator Bot Documentation
+# Orator Bot - Dev Docs Site
 
 Orator is a Text to speech ( TTS ) bot which basically speak in vc whatever you type in chat through its command . It has many languages and can be used in voice channels.
 
