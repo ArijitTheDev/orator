@@ -5,7 +5,7 @@ Orator is a Text to speech ( TTS ) bot which basically speak in vc whatever you 
 Important Links:
 
 ----------------
-
+- Mail to us: `mail@oratorbot.xyz`
 - Invite Orator: [https://dsc.gg/oratorbot](https://dsc.gg/oratorbot)
 - Support Server: [https://discord.gg/TeS3haQ4tT](https://discord.gg/TeS3haQ4tT)
 - Top.gg Page: [https://top.gg/bot/948637316145102868](https://top.gg/bot/948637316145102868)
@@ -13,7 +13,7 @@ Important Links:
 Team Orator
 ----------
 
-- RK: Owner and Manager
-- Arijit: Main Developer
+- RK: Owner and Manager (`rk@oratorbot.xyz`)
+- Arijit: Main Developer (`arijit@oratorbot.xyz`)
 - RKN: Feature Developer
 - Frezzik: Web Developer 
