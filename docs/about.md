@@ -14,5 +14,6 @@ Orator has a lot of features, Some of them are stated below:
 7. `.languages` - We have a lot of languages available in Orator.
 
 And many more.
-Join our Support Server: https://dsc.gg/oratorsupport
-Mail to us: mail@oratorbot.xyz
+
+- Join our Support Server: [https://dsc.gg/oratorsupport](https://dsc.gg/oratorsupport)
+- Mail to us: [mail@oratorbot.xyz](mailto:mail@oratorbot.xyz)
